@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:title="@string/favorite"
+        android:id="@+id/id_favorite" />
+    <item android:title="@string/OC">
+        <menu>
+            <item
+                android:title="@string/win"
+                android:id="@+id/ia_win" />
+            <item
+                android:title="@string/lin"
+                android:id="@+id/ia_lin" />
+            <item
+                android:title="@string/mac"
+                android:id="@+id/ia_mac" />
+            <item
+                android:title="@string/and"
+                android:id="@+id/ia_and" />
+            <item
+                android:title="@string/ios"
+                android:id="@+id/ia_ios" />
+        </menu>
+    </item>
+<item android:title="@string/comple">
+    <menu>
+        <item
+            android:title="@string/mat"
+            android:id="@+id/ia_mat" />
+        <item
+            android:title="@string/pro"
+            android:id="@+id/ia_pro" />
+        <item
+            android:title="@string/vid"
+            android:id="@+id/ia_vid" />
+    </menu>
+</item>
+<item android:title="@string/other">
+    <menu>
+        <item
+            android:title="@string/cybersport"
+            android:id="@+id/id_cybersport" />
+        <item
+            android:title="@string/pk"
+            android:id="@+id/id_pk" />
+        <item
+            android:title="@string/soft"
+            android:id="@+id/id_soft" />
+    </menu>
+</item>
+</menu>

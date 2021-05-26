@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CompKnow</string>
+    <string name="font2">RobotoSlab-VariableFont_wght.ttf</string>
+    <string name="favorite">Избранное</string>
+    <string name="OC">Операционные системы</string>
+    <string name="win">Windows</string>
+    <string name="lin">Linux</string>
+    <string name="mac">macOS</string>
+    <string name="and">Android</string>
+    <string name="ios">IOS</string>
+    <string name="comple">Комплектующие</string>
+    <string name="mat">Материнские платы</string>
+    <string name="pro">Процессоры</string>
+    <string name="vid">Видеокарты</string>
+    <string name="other">Разное</string>
+    <string name="cybersport">Киберспорт</string>
+    <string name="pk">Сборки</string>
+    <string name="soft">Софт</string>
+</resources>
